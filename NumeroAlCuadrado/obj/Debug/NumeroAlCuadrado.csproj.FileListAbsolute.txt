@@ -1,0 +1,7 @@
+H:\CÓDIGOS NUCLEARES\NumeroAlCuadrado\bin\Debug\NumeroAlCuadrado.exe.config
+H:\CÓDIGOS NUCLEARES\NumeroAlCuadrado\bin\Debug\NumeroAlCuadrado.exe
+H:\CÓDIGOS NUCLEARES\NumeroAlCuadrado\bin\Debug\NumeroAlCuadrado.pdb
+H:\CÓDIGOS NUCLEARES\NumeroAlCuadrado\obj\Debug\NumeroAlCuadrado.csproj.AssemblyReference.cache
+H:\CÓDIGOS NUCLEARES\NumeroAlCuadrado\obj\Debug\NumeroAlCuadrado.csproj.CoreCompileInputs.cache
+H:\CÓDIGOS NUCLEARES\NumeroAlCuadrado\obj\Debug\NumeroAlCuadrado.exe
+H:\CÓDIGOS NUCLEARES\NumeroAlCuadrado\obj\Debug\NumeroAlCuadrado.pdb
